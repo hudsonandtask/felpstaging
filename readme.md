@@ -17,24 +17,26 @@ Michael Hudson
 Solution Architect
 michael.hudson@ey.com
 
-Divyashree Srinivasa
-Frontend Developer (Instructor)
-divya.srinivasa@ey.com
+Emily Ramjit
+Senior Software Developer (Instructor)
+emily.ramjit@ey.com
 
-Ann Bantukul   
-ann.bantukul@ey.com
-Michael Greene
+Charles Nummer
 Frontend Developer / Staff Assistant
-michael.greene2@ey.com
+Charles.Nummer@ey.com
 
-D'Andre Turner
+Emmanuel Agyei
 Frontend Developer / Staff Assistant
-DAndre.Turner@ey.com
+Emmanuel.Agyei@ey.com
 
-Darrielle Evans
+Joseph Trierweiler
 Frontend Developer / Staff Assistant
-darrielle.evans@ey.com
+Joseph.Trierweiler@ey.com
 
-Charmaine Stegall
-Frontend Developer
-charmaine.stegall@ey.com
+Kent DePasquale
+Frontend Developer / Staff Assistant
+Kent.DePasquale@ey.com
+
+Lana Butorovic
+Frontend Developer / Staff Assistant
+Lana.Butorovic@ey.com
