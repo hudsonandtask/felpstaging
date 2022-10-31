@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1e64c5f7.css",
+    "main.js": "./static/js/main.1c3d0c14.js",
+    "static/media/background_noodle.png": "./static/media/background_noodle.961741fe3d743a25d721.png",
+    "static/media/image 10.png": "./static/media/image 10.49fd2f2700511116e076.png",
+    "static/media/Takoyaki.png": "./static/media/Takoyaki.7eb725849cba840e0b0d.png",
+    "static/media/Corn.png": "./static/media/Corn.0c859d6cdb5b604581ea.png",
+    "static/media/Edamame.png": "./static/media/Edamame.ced8842b5e18f8e46d1b.png",
+    "static/media/Udon3.png": "./static/media/Udon3.5e9005afefd985e7e882.png",
+    "static/media/Udon2.png": "./static/media/Udon2.90c0c8a8a79813746196.png",
+    "static/media/Udon1.png": "./static/media/Udon1.0ba18d5a3be426d43af2.png",
+    "static/media/Logo.svg": "./static/media/Logo.75756fa5c9f2dfb383722f31ae8643bc.svg",
+    "static/media/google-plus.png": "./static/media/google-plus.fa256cf5db1bec2844c5.png",
+    "static/media/facebook.png": "./static/media/facebook.4f037d961598aff2a0a4.png",
+    "index.html": "./index.html",
+    "main.1e64c5f7.css.map": "./static/css/main.1e64c5f7.css.map",
+    "main.1c3d0c14.js.map": "./static/js/main.1c3d0c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e64c5f7.css",
+    "static/js/main.1c3d0c14.js"
+  ]
+}
